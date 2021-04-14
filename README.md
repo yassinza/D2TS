@@ -10,6 +10,4 @@ Running D2TS
 This work was implemented using Knime Analytics Platform. You can simple import the .knwf file into Knime and run it on any dataset.
 
 
-Reference
-========================
-If you use this code as part of any published research, please acknowledge the following papers.
+
